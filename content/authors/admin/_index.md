@@ -17,10 +17,9 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
-  - Quantitative Macroec
-  - Computational Linguistics
-  - Information Retrieval
+#interests:
+#  - Quantitative Macro
+#  - Finance
 
 # Education to show in About widget
 education:
@@ -46,12 +45,12 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+#  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+#    icon_pack: fas
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -70,7 +69,7 @@ email: ''
 highlight_name: true
 ---
 
-I am currently an MRes/PhD student in Financial Economics at UCL. Previously, I was an Economic Analyst at the Economic Research Area of the Central Bank of Chile.
+I am currently an MRes/PhD student in Financial Economics at UCL. Previously, I was an Economic Analyst at the Economic Research Area of the Central Bank of Chile.  Specifically, I worked for the Economic Modelling Department.
 
 My research interests (broadly speaking!) are at the intersection of Macroeconomics and Finance.
 

@@ -17,9 +17,9 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-#interests:
-#  - Quantitative Macro
-#  - Finance
+interests:
+  - Quantitative Macro
+  - Finance
 
 # Education to show in About widget
 education:
@@ -30,7 +30,7 @@ education:
     - course: MA, Economics
       institution: The University of Manchester
       year: 2017
-    - course: BSc, Busines and Economics
+    - course: BSc, Business and Economics
       institution: Austral University of Chile
       year: 2014
 
@@ -69,8 +69,8 @@ email: ''
 highlight_name: true
 ---
 
-I am currently an MRes/PhD student in Financial Economics at UCL. Previously, I was an Economic Analyst at the Economic Research Area of the Central Bank of Chile.  Specifically, I worked for the Economic Modelling Department.
+I am currently an MRes/PhD student in Financial Economics at UCL. Previously, I was an Economic Analyst at the Economic Research Area of the Central Bank of Chile.
 
 My research interests (broadly speaking!) are at the intersection of Macroeconomics and Finance.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

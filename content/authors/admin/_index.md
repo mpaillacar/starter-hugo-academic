@@ -14,7 +14,7 @@ organizations:
     url: https://www.ucl.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
@@ -69,7 +69,7 @@ email: ''
 highlight_name: true
 ---
 
-I am currently an MRes/PhD student in Financial Economics at the [Center for Finance](https://centreforfinance.org) and the [Department of Economics](https://www.ucl.ac.uk/economics/) at **UCL**.
+I am currently an MRes/PhD student in Financial Economics at the [Center for Finance](https://centreforfinance.org) based in the [Department of Economics](https://www.ucl.ac.uk/economics/) at **UCL**.
 
 Before joining UCL, I was an Economic Analyst at the Economic Research Area of the [Central Bank of Chile](https://portalbiblioteca.bcentral.cl/en/web/banco-central/).
 

@@ -6,7 +6,7 @@ title: Manuel A. Paillacar
 superuser: true
 
 # Role/position/tagline
-role: MRes-PhD Student in Financial Economics
+role: MRes/PhD Student in Financial Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,26 +14,26 @@ organizations:
     url: https://www.ucl.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - Quantitative Macroec
   - Computational Linguistics
   - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MRes/PhD, Financial Economics
+      institution: University College London
+      year: 2022-2027
+    - course: MA, Economics
+      institution: The University of Manchester
+      year: 2017
+    - course: BSc, Busines and Economics
+      institution: Austral University of Chile
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

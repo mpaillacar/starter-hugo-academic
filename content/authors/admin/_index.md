@@ -73,4 +73,4 @@ I am currently an MRes/PhD student in Financial Economics at UCL. Previously, I 
 
 My research interests (broadly speaking!) are at the intersection of Macroeconomics and Finance.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

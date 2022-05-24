@@ -18,7 +18,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Quantitave Macro
+  - Macroeconomics
   - Finance
 
 # Education to show in About widget
@@ -44,7 +44,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/mpaillacar23
 #  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
 #    icon_pack: fas
 #    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -53,7 +53,7 @@ social:
 #    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/manuel-a-paillacar/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -69,8 +69,8 @@ email: ''
 highlight_name: true
 ---
 
-I am currently an MRes/PhD student in Financial Economics at the Center for Finance and the Department of Economics at UCL.
+I am currently an MRes/PhD student in Financial Economics at the [Center for Finance](https://centreforfinance.org) and the [Department of Economics](https://www.ucl.ac.uk/economics/) at **UCL**.
 
-Before joining UCL, I was an Economic Analyst at the Economic Research Area of the Central Bank of Chile.
+Before joining UCL, I was an Economic Analyst at the Economic Research Area of the [Central Bank of Chile](https://portalbiblioteca.bcentral.cl/en/web/banco-central/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

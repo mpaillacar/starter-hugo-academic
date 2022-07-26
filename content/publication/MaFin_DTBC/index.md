@@ -1,18 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Unconventional credit policies during crises: A structural analysis of the Chilean experience during the COVID-19 pandemic"
+title: "A Macro Financial Model for the Chilean Economy"
 authors:
-  - admin
-  - Benjamín García
-  - Mario González
-  - Sebastián Guarda
+ - admin
+ - Mauricio Calani
+ - Benjamín García
+ - Tomás Gómez
+ - Mario González
+ - Sebastián Guarda
 
-date: 2022-05-24T17:48:20-04:00
+date: 2022-05-24T17:49:11-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-05-24T17:48:20-04:00
+publishDate: 2022-05-24T17:49:11-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,10 +26,10 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: With the economy facing an unprecedented hit due to the COVID-19 pandemic, the Central Bank of Chile and the Chilean government jointly implemented several programs aimed at increasing liquidity and maintaining the flow of funds in the economy. In this paper, we extend the model described in Calani et al. (2022), a structural large-scale DSGE model with a financial system and financial frictions, to assess the impact of the different credit programs implemented during the COVID-19 crisis. We find that the policies’ most significant impact was due to the FOGAPE program and from their joint ability to reduce credit risk. The quantitative analysis carried on in this paper shows that the contraction of GDP in 2020 was between 2.7 and 5.4 percentage points milder thanks to the implemented liquidity and credit policies.
+abstract: This paper presents a dynamic stochastic general equilibrium (DSGE) model built with a focus on frictional financial intermediation. The model, estimated for the Chilean economy, expands the quantitative analysis toolkit of the Central Bank of Chile, allowing for the study of how financial frictions shape the transmission mechanisms of several macroeconomic and financial shocks. The model builds on a simplified version of the Central Bank of Chile’s main DSGE model, described in Garcia et al. (2019), augmented to include a rich financial sector and financial frictions. The extensions include optimizing financial intermediaries, corporate and mortgage lending, long-term government bonds within a segmented bonds market, and the possibility for households, firms, and banks to default. The result is the Central Bank of Chile’s Macro Financial Model. The model captures many features of the Chilean economy and allows for a quantitative analysis of the financial system’s role in explaining the business cycle and of the interaction between the real and financial sides of the economy.
 
 # Summary. An optional shortened abstract.
-summary: "We analyze the effects of several credit policies implemented in Chile during the COVID-19 pandemic."
+summary: "We develop a dynamic stochastic general equilibrium (DSGE) model built with frictional financial intermediation."
 
 tags: []
 categories: []
@@ -41,7 +43,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://www.bcentral.cl/en/web/banco-central/content/-/details/working-papers-n-953
 url_code:
 url_dataset:
 url_poster:

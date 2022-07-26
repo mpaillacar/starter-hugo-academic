@@ -14,7 +14,7 @@ author_notes:
   - 'Central Bank of Chile'
 
 date: '2022-02-01T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1016/j.jbankfin.2021.106359'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -56,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

@@ -31,7 +31,7 @@ content:
       captcha: true
 
  # Contact details (edit or remove options as required)
- # email: test@example.org
+ # email: mpaillacar.almonacid [at] gmail [dot] com
  # phone: 888 888 88 88
   address:
     street:  Drayton House, 30 Gordon St.

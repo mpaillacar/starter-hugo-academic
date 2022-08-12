@@ -73,4 +73,4 @@ I am currently an MRes/PhD student in Financial Economics at the [Center for Fin
 
 Before joining UCL, I was an Economic Analyst at the Economic Research Area of the [Central Bank of Chile](https://portalbiblioteca.bcentral.cl/en/web/banco-central/) conducting research and policy analysis.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.

@@ -26,7 +26,7 @@ education:
   courses:
     - course: PhD in Financial Economics
       institution: University College London
-      year: 2022-27
+      year: 2022 - Present
     - course: MA in Economics
       institution: The University of Manchester
       year: 2017

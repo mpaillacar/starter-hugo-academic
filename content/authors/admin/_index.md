@@ -24,7 +24,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Financial Economics
+    - course: MRes/PhD in Financial Economics
       institution: University College London
       year: 2022 - Present
     - course: MA in Economics

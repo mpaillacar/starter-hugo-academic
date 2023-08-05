@@ -19,7 +19,7 @@ organizations:
 # Interests to show in About widget
 interests:
   - Macroeconomics
-  - Finance
+  - Financial Economics
 
 # Education to show in About widget
 education:

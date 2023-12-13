@@ -26,7 +26,7 @@ education:
   courses:
     - course: MRes/PhD in Financial Economics
       institution: University College London
-      year: 2022-27
+      year: 2022-
     - course: MA in Economics
       institution: The University of Manchester
       year: 2017
@@ -69,7 +69,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD student in Financial Economics at the [UCL Centre for Finance](https://centreforfinance.org) based in the [Department of Economics](https://www.ucl.ac.uk/economics/) at [UCL](https://www.ucl.ac.uk).
+I am a second year PhD student in Financial Economics at the [UCL Centre for Finance](https://centreforfinance.org) based in the [Department of Economics](https://www.ucl.ac.uk/economics/) at [UCL](https://www.ucl.ac.uk). My research interests are lie at the intersection of macroeconomics and financial economics.  
 
 Before joining UCL, I was an Economic Analyst at the Economic Research Area of the [Central Bank of Chile](https://portalbiblioteca.bcentral.cl/en/web/banco-central/) conducting research and policy analysis in the fields of macroeconomics and financial intermediation.
 

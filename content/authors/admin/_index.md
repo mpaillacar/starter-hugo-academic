@@ -71,6 +71,6 @@ highlight_name: true
 
 I am a second-year Ph.D. student in Financial Economics at [UCL](https://www.ucl.ac.uk). My research interests lie at the intersection of macroeconomics and finance.  
 
-Before joining UCL, I was an Economic Analyst at the Economic Research Area of the [Central Bank of Chile](https://portalbiblioteca.bcentral.cl/en/web/banco-central/) conducting research and policy analysis on monetary policy and macroprudential policy. 
+Before joining UCL, I was an Economic Analyst at the Economic Research Area of the [Central Bank of Chile](https://portalbiblioteca.bcentral.cl/en/web/banco-central/) conducting research on monetary policy and macroprudential policy. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.

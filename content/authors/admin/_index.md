@@ -19,8 +19,7 @@ organizations:
 # Interests to show in About widget
 interests:
   - Macroeconomics
-  - Asset Pricing
-  - Macro-Finance
+  - Finance
 
 # Education to show in About widget
 education:

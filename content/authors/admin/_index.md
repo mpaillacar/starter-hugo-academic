@@ -19,7 +19,8 @@ organizations:
 # Interests to show in About widget
 interests:
   - Macroeconomics
-  - Financial Economics
+  - Asset Pricing
+  - Macro-Finance
 
 # Education to show in About widget
 education:
@@ -69,7 +70,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a second-year Ph.D. student in Financial Economics at [UCL](https://www.ucl.ac.uk). My research interests lie at the intersection of macroeconomics and financial economics.  
+I am a second-year Ph.D. student in Financial Economics at [UCL](https://www.ucl.ac.uk). My research interests lie at the intersection of macroeconomics and finance.  
 
 Before joining UCL, I was an Economic Analyst at the Economic Research Area of the [Central Bank of Chile](https://portalbiblioteca.bcentral.cl/en/web/banco-central/) conducting research and policy analysis in the fields of macroeconomics and financial intermediation.
 

@@ -6,7 +6,7 @@ title: Manuel A. Paillacar
 superuser: true
 
 # Role/position/tagline
-role: MRes/PhD Student
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -24,7 +24,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MRes/PhD in Financial Economics
+    - course: PhD in Financial Economics
       institution: University College London
       year: 2022-
     - course: MA in Economics
@@ -69,8 +69,8 @@ email: ''
 highlight_name: true
 ---
 
-I am a Ph.D. student in Financial Economics at [UCL](https://www.ucl.ac.uk). My research interests lie at the intersection of macroeconomics and finance.  
+I am a Ph.D. candidate in Financial Economics at [UCL](https://www.ucl.ac.uk). My current research focuses on understanding the role of risk premium in shaping wealth inequality and the channels through which it affects the distribution of wealth.
 
-Before joining UCL, I was an Economic Analyst at the Economic Research Area of the [Central Bank of Chile](https://portalbiblioteca.bcentral.cl/en/web/banco-central/) conducting research on monetary and macroprudential policy. 
+Before joining UCL, I was an Economic Analyst at the Economic Research Area of the [Central Bank of Chile](https://portalbiblioteca.bcentral.cl/en/web/banco-central/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
